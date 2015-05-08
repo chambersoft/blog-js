@@ -3,6 +3,10 @@ blog.js
 
 A blogging platform for developers who are tired of php.
 
+```sh
+npm install blog-js
+```
+
 
 How did I get here?
 -------------------
