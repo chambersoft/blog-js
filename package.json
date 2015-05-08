@@ -1,0 +1,25 @@
+{
+  "name": "blog-js",
+  "version": "0.1.0",
+  "description": "A blog for developers who are tired of php.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chambersoft/blog-js"
+  },
+  "keywords": [
+    "blog",
+    "node",
+    "nodejs",
+    "angularjs"
+  ],
+  "author": "Cole Chamberlain <cole.chamberlain@gmail.com> (http://devdis.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chambersoft/blog-js/issues"
+  },
+  "homepage": "https://github.com/chambersoft/blog-js"
+}
